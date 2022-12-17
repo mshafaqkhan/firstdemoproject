@@ -1,3 +1,0 @@
-this is first file 
-
-this line is added by smart git
